@@ -1,37 +1,38 @@
-# _{Application Name}_
+# _Epicodus Bike Index API V3 Practice_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _This is a small program to practice using API's with JS and NPM_
+#### _Date: April 23, 2020
 
-#### By _**{List of contributors}**_
+#### By _**Jason Macie**_
+#### API from https://bikeindex.org/
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_This is a basic program that explores the use of Bike Index API._
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* Clone this repository.
+* Navigate to the root directory.
+* Make sure you have npm installed. Then run 'npm install'. And 'npm run build'.
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+## Specs
 
-## Known Bugs
+**MVP**
+* Create a class that will handle API calls to Bike Index API
+* Display to users their request
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
-
-## Support and contact details
-
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+**Aditional Work**
+* Show users all of the stolen bikes based on their search request
 
 ## Technologies Used
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+* JavaScript
+* Node Package Manager
+* Bike Index API from: https://bikeindex.org/
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+This software is licensed under the MIT license.
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Copyright (c) 2020 **_Jason Macie_**
