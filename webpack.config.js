@@ -19,7 +19,7 @@ module.exports = {
     new UglifyJsPlugin({ sourceMap: true }),
     new CleanWebpackPlugin(),
     new HtmlWebpackPlugin({
-      title: 'Project Title',
+      title: 'Epicodus Bike Index API V3 Practice',
       template: './src/index.html',
       inject: 'body'
     })

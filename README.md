@@ -29,7 +29,7 @@ _This is a basic program that explores the use of Bike Index API._
 
 * JavaScript
 * Node Package Manager
-* Bike Index API from: https://bikeindex.org/
+* Bike Index API from: https://bikeindex.org/documentation/api_v3
 
 ### License
 
